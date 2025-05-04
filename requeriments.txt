@@ -1,0 +1,4 @@
+pandas
+fpdf
+matplotlib
+para rodar escrever python app.py e logo em seguida data/teste.xlsx 

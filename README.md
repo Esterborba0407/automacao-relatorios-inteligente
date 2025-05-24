@@ -11,6 +11,7 @@ A ideia é facilitar o processo de análise, economizar tempo e gerar relatório
 - Gera um gráfico de barras visualizando as vendas;
 - Cria um PDF moderno com o gráfico e uma tabela com todos os dados organizados;
 - Exibe o total geral das vendas no final do relatório.
+- link de como fica no PDF https://esterborba0407.github.io/automacao-relatorios-inteligente/relatorio_vendas.pdf
 
 ## 📂 Como rodar o projeto
 

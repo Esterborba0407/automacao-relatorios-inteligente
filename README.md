@@ -15,7 +15,7 @@ A ideia é facilitar o processo de análise, economizar tempo e gerar relatório
 
 ## 📂 Como rodar o projeto
 
-python app.py
-Digite o nome do arquivo Excel (exemplo: data/teste.xlsx): data/teste.xlsx  
-obs : esse arquivo foi a onde ele pegou as informações, para gerar o grafico e a tabela. 
+ Passo 1 : python app.py
+PASSO 2 :  Digite o nome do arquivo Excel (exemplo: data/teste.xlsx): data/teste.xlsx  
+obs : esse arquivo foi UM ARQUIVO TESTE, que criei que contem as informações, para ele poder gerar a tabela e o grafico, com todos os requisitos acima . 
 
